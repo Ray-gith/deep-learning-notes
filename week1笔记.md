@@ -137,21 +137,3 @@ except:
 > For all sample, Maximun likelyhood estimation:
 > $$\mathcal{J}(w, b)=\frac{1}{m}\sum_{i=1}^{m}\mathcal{L}(\hat y^{(i)}, y^{(i)})=-\frac{1}{m}\sum_{i=1}^{m}[y\log(\hat y)+(1-y)\log(1-\hat y)]$$
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
