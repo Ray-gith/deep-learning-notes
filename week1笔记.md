@@ -1,4 +1,4 @@
-# Deep Learning Notes
+# Deep Learning Notes 1
 
 ## What i will learn in the course?
 - Neural Network and Deep Learning; 
